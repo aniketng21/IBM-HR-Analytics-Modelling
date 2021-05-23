@@ -1,0 +1,81 @@
+ProductID,Brand,Category,Name,Warranty,Type,Metal,Additionals,Capacity,Price
+KC1,Butterfly,Kitchenware,Butterfly Friendly 3 L Induction Bottom Pressure Cooker,5,Pressure Cooker,Aluminium,Induction Bottom,3 Litres,629
+KC2,Butterfly,Kitchenware,Butterfly Friendly 5 L Induction Bottom Pressure Cooker,3,Pressure Cooker,Aluminium,Induction Bottom,5 Litres,949
+KC3,Butterfly,Kitchenware,Butterfly Friendly 2 L Pressure Cooker,5,Pressure Cooker,Aluminium,Nil,2 Litres,379
+KC4,Hawkins,Kitchenware,Hawkins Contura 3 L Pressure Cooker,2,Pressure Cooker,Aluminium,Nil,3 Litres,1253
+KC5,Hawkins,Kitchenware,Hawkins Contura 1.5 L Pressure Cooker,5,Pressure Cooker,Aluminium,Nil,1.5 Litres,936
+KC6,Hawkins,Kitchenware,Hawkins CONTURA BLACK 5 L Pressure Cooker,2,Pressure Cooker,Stainless Steel,Nil,5 Litres,2269
+KC7,Prestige,Kitchenware,Prestige Nakshatra Duo Plus Svachh Handi Pressure Cooker 3 L Induction Bottom Pressure Cooker,5,Pressure Cooker,Aluminium,Nil,3 Litres,1380
+KC8,Prestige,Kitchenware,Prestige Svachh Nakshatra Plus Handi 5 L Induction Bottom Pressure Cooker,1,Pressure Cooker,Aluminium,Nil,5 Litres,2400
+KC9,Prestige,Kitchenware,Prestige Nakshatra Alpha 3.5 L Induction Bottom Pressure Cooker,5,Pressure Cooker,Stainless Steel,Nil,3.5 Litres,1995
+KC10,Prestige,Kitchenware,Prestige Popular 3 L Pressure Cooker,3,Pressure Cooker,Stainless Steel,Nil,3 Litres,1780
+KC11,Butterfly,Kitchenware,Butterfly Curve 5.5 L Induction Bottom Pressure Cooker(Stainless Steel),5,Pressure Cooker,Stainless Steel,Induction Bottom,5.5 Litres,1750
+KC12,Butterfly,Kitchenware,Butterfly Curve 2 L Induction Bottom Pressure Cooker(Stainless Steel),5,Pressure Cooker,Stainless Steel,Induction Bottom,2 Litres,1209
+KC13,Butterfly,Kitchenware,Butterfly Blue Line 5 L Induction Bottom Pressure Cooker,5,Pressure Cooker,Stainless Steel,Induction Bottom,5 Litres,2199
+KC14,Butterfly,Kitchenware,Butterfly present Blueline 3 liter capacity stainless steel 3 L Induction Bottom Pressure Cooker,5,Pressure Cooker,Stainless Steel,Induction Bottom,3 Litres,1750
+KC15,Hawkins,Kitchenware,HAWKINS Contura Black 3.5 L Pressure Cooker,5,Pressure Cooker,Hard Anodized,Nil,3.5 Litres,1777
+KC16,Hawkins,Kitchenware,HAWKINS Stainless Steel Contura 3 L Induction Bottom Pressure Cooker,5,Pressure Cooker,Stainless Steel,Induction Bottom,3 Litres,2499
+KC17,Hawkins,Kitchenware,HAWKINS Stainless Steel Contura 2 L Induction Bottom Pressure Cooker,5,Pressure Cooker,Stainless Steel,Induction Bottom,2 Litres,2210
+KC18,Hawkins,Kitchenware,HAWKINS Classic Wide Pressure Cooker 3 L Pressure Cooker,5,Pressure Cooker,Aluminium,Nil,3 Litres,1225
+KC19,Prestige,Kitchenware,Prestige Svachh 3 L Induction Bottom Pressure Cooker,3,Pressure Cooker,Aluminium,Induction Bottom,3 Litres,1325
+KC20,Prestige,Kitchenware,Prestige Deluxe Alpha Svachh 5.5 L Induction Bottom Pressure Cooker,3,Pressure Cooker,Stainless Steel,Induction Bottom,5.5 Litres,2299
+KP1,Prestige,Kitchenware,Prestige Omega Select Plus Fry Pan,1,Pan,Aluminium,Nil,20 cm diameter,570
+KP2,Hawkins,Kitchenware,Hawkins Futura Fry Pan,5,Pan,Aluminium,Induction Bottom,26 cm diameter,975
+KP3,Butterfly,Kitchenware,Butterfly Raga Fry Pan,1,Pan,Aluminium,Induction Bottom,20 cm diameter,599
+KP4,Indus Valley,Kitchenware,The Indus Valley Iron Pan with Wooden Handle,0,Pan,Iron,Induction Bottom,25.4 cm diameter,799
+KP5,Prestige,Kitchenware,Prestige Fry Pan ,1,Pan,Aluminium,Induction Bottom,26 cm diameter,649
+KP6,Prestige,Kitchenware,Prestige Omega Marble Milk Pan,1,Pan,Aluminium,Induction Bottom,16 cm diameter,723
+KP7,Prestige,Kitchenware,Prestige Omega Deluxe Granite Fry Pan,1,Pan,Aluminium,Induction Bottom,28 cm diameter,1055
+KP8,Hawkins,Kitchenware,Hawkins Hard Anodized Sauce Pan,1,Pan,Aluminium,Induction Bottom,16 cm diameter,761
+KP9,Hawkins,Kitchenware,Hawkins Futura Stir Fry Pan,2,Pan,Aluminium,Induction Bottom,26 cm diameter,1285
+KP10,Hawkins,Kitchenware,Hawkins Focus Fry Pan,1,Pan,Aluminium,Induction Bottom,26 cm diameter,1220
+KP11,Butterfly,Kitchenware,Butterfly Tadka Pan 10 cm diameter,5,Pan,Aluminium,Induction Bottom,10 cm diameter,400
+KP12,Butterfly,Kitchenware,Butterfly Fry Pan 20 cm diameter,3,Pan,Aluminium,Induction Bottom,20 cm diameter,630
+KP13,Butterfly,Kitchenware,Butterfly Rapid Fry Pan 240 MM Induction Base Fry Pan 24 cm diameter,5,Pan,Aluminium,Induction Bottom,24 cm diameter,379
+KP14,Butterfly,Kitchenware,Butterfly Granza Milk Pan Pot 1.6 L with Lid,5,Pan,Aluminium,Induction Bottom,1.6 Liters,980
+KP15,Hawkins,Kitchenware,HAWKINS Triply SS SSF22 Fry Pan 22 cm diameter,5,Pan,Stainless Steel,Induction Bottom,22 cm Diameter,1090
+KP16,Hawkins,Kitchenware,HAWKINS 1.5 L Capacity Sauce Pan 12.7 cm diameter with Lid,3,Pan,Stainless Steel,Induction Bottom,1.5 Liters,990
+KP17,Hawkins,Kitchenware,HAWKINS Tea Pan 1.5 Ltr Sauce Pan 16.6 cm diameter,3,Pan,Stainless Steel,Induction Bottom,1.5 Liters,807
+KP18,Prestige,Kitchenware,Prestige Hard Anodised Tadka Tadka Pan 10 cm diameter,3,Pan,Hard Anodized,Nil,10 cm diameter,360
+KP19,Prestige,Kitchenware,Prestige Platina Popular Fry Pan 24 cm diameter,5,Pan,Stainless Steel,Induction Bottom,24 cm diameter,820
+KP20,Prestige,Kitchenware,Prestige Omega Deluxe Granite Fry Pan 24 cm diameter,3,Pan,Aluminium,Induction Bottom,24 cm diameter,949
+KK1,Prestige,Kitchenware,Prestige Hard Anodised Plus Kadhai with Lid,2,Kadhai,Aluminium,Induction Bottom,20 cm diameter,1150
+KK2,Butterfly,Kitchenware,Butterfly Rapid Kadhai with Lid,1,Kadhai,Aluminium,Induction Bottom,24 cm diameter,499
+KK3,Prestige,Kitchenware,Prestige Omega Marble Kadhai with Lid,1,Kadhai,Aluminium,Induction Bottom,24 cm diameter,799
+KK4,Butterfly,Kitchenware,Butterfly Royale Tri-Ply Kadhai,5,Kadhai,Stainless Steel,Nil,24 cm diameter,1299
+KK5,Hawkins,Kitchenware,Hawkins Futura Kadhai 2.5 L Capacity,5,Kadhai,Aluminium,Non-Stick,26 cm diameter,1195
+KK6,Hawkins,Kitchenware,Hawkins Triply 2.5 Ltr SSD25G Kadhai,5,Kadhai,Stainless Steel,Induction Bottom,26 cm diameter,1810
+KK7,Indus Valley,Kitchenware,The Indus Valley Cast Iron Kadai,0,Kadhai,Iron,Nil,27 cm diameter,1106
+KK8,Hawkins,Kitchenware,Hawkins Futura Round Bottom,1,Kadhai,Iron,Nil,22 cm diameter,830
+KK9,Hawkins,Kitchenware,Hawkins Futura Round Bottom,4,Kadhai,Stainless Steel,Nil,30 cm diameter,1849
+KK10,Hawkins,Kitchenware,Hawkins Futura Flat Bottom 5 L,5,Kadhai,Stainless Steel,Nil,33 cm diameter,2100
+KK11,Prestige,Kitchenware,Prestige Omega Select Plus 3.5 Ltr Kadhai 27 cm with Lid,1,Kadhai,Aluminium,Nil,27 cm diameter,1649
+KK12,Prestige,Kitchenware,Prestige Omega Deluxe Granite Kadhai 24 cm with Lid,1,Kadhai,Aluminium,Induction Bottom,24 cm diameter,1190
+KK13,Prestige,Kitchenware,Prestige Omega Select Plus Base 3.5 Ltr Kadhai 27 cm with Lid,1,Kadhai,Aluminium,Induction Bottom,27 cm diameter,1515
+KK14,Butterfly,Kitchenware,Butterfly Kadhai 24.3 cm with Lid,2,Kadhai,Stainless Steel,Induction Bottom,24 cm diameter,599
+KK15,Butterfly,Kitchenware,Butterfly Granza Non-Stick Aluminium Kadhai 28 cm with Lid,2,Kadhai,Aluminium,Nil,28 cm diameter,1449
+KK16,Butterfly,Kitchenware,Butterfly Granza Kadai Kadhai 24 cm with Lid,2,Kadhai,Aluminium,Nil,24 cm diameter,1399
+KK17,Hawkins,Kitchenware,HAWKINS Triply Stainless Steel SSK40G 4 Ltr Kadhai 28 cm with Lid,2,Kadhai,Stainless Steel,Induction Bottom,28 cm diameter,2375
+KK18,Hawkins,Kitchenware,HAWKINS Futura Hard Anodised Flat Bottom Wok with Lid 2.5 L Capacity,5,Kadhai,Hard Anodized,Nil,2.5 Liters,1570
+KK19,Hawkins,Kitchenware,HAWKINS Futura - Flat Bottom Fry Pan Stir NDL 20 Wok,5,Kadhai,Hard Anodized,Nil,2 Litres,1010
+KK20,Hawkins,Kitchenware,HAWKINS Futura H.A Fish Fry Kadhai Kadhai 2.5 L Capacity with Lid,5,Kadhai,Hard Anodized,Nil,2.5 Liters,1550
+KT1,Tredy,Kitchenware,Tredy Fly Non-Stick Regular Dosa Tawa,0,Tawa,Aluminium,Non-Stick,28 cm diameter,499
+KT2,Indus Valley,Kitchenware,The Indus Valley Cast Iron Dosa Tawa,0,Tawa,Iron,Nil,25.5 cm diameter,1260
+KT3,Zishta,Kitchenware,Zishta Traditional Cast Iron Raise Edge Pan,0,Tawa,Iron,Induction Bottom,18 cm diameter,1090
+KT4,Hawkins,Kitchenware,Hawkins Futura 4.88 mm Thick Tawa,5,Tawa,Aluminium,Nil,26 cm diameter,842
+KT5,Prestige,Kitchenware,Prestige Hard Anodized Plus Tawa,1,Tawa,Aluminium,Induction Bottom,22.5 cm diameter,652
+KT6,Butterfly,Kitchenware,Butterfly Tawa,0,Tawa,Aluminium,Induction Bottom,28 cm diameter,920
+KT7,Hawkins,Kitchenware,Hawkins Futura Flat Tawa,1,Tawa,Aluminium,Induction Bottom,26 cm diameter,1350
+KT8,Hawkins,Kitchenware,Hawkins Futura Tawa,1,Tawa,Aluminium,Induction Bottom,33 cm diameter,1498
+KT9,Butterfly,Kitchenware,Butterfly Cordial Omni Tawa,3,Tawa,Aluminium,Induction Bottom,25 cm diameter,497
+KT10,Butterfly,Kitchenware,Butterfly Rapid Omni Tawa,2,Tawa,Aluminium,Induction Bottom,28 cm diameter,895
+KT11,Butterfly,Kitchenware,Butterfly Rock Die Cast Flat Tawa Tawa 31.1 cm diameter,2,Tawa,Aluminium,Nil,31 cm diameter,1199
+KT12,Butterfly,Kitchenware,Butterfly Tawa 35.5 cm diameter,2,Tawa,Aluminium,Nil,35 cm diameter,1530
+KT13,Butterfly,Kitchenware,Butterfly Tawa 25 cm diameter,2,Tawa,Aluminium,Nil,25 cm diameter,750
+KT14,Hawkins,Kitchenware,HAWKINS Futura Nonstick Dosa Tawa 28 cm diameter,2,Tawa,Aluminium,Nil,28 cm diameter,1379
+KT15,Hawkins,Kitchenware,HAWKINS FUTURA DOSA Tawa 30 cm diameter,2,Tawa,Aluminium,Nil,30 cm diameter,1399
+KT16,Hawkins,Kitchenware,HAWKINS Futura Hard Anodized Tawa 24 cm diameter,2,Tawa,Hard Anodized,Nil,24 cm diameter,825
+KT17,Prestige,Kitchenware,Prestige Omega Marble Tawa 28 cm diameter,5,Tawa,Aluminium,Nil,28 cm diameter,549
+KT18,Prestige,Kitchenware,Prestige Tawa 25 cm diameter,5,Tawa,Aluminium,Nil,25 cm diameter,569
+KT19,Prestige,Kitchenware,Prestige Omega Marble Tawa 25 cm diameter,5,Tawa,Aluminium,Induction Bottom,25 cm diameter,489
+KT20,Prestige,Kitchenware,Prestige Omega Deluxe Granite Tawa 30 cm diameter,1,Tawa,Aluminium,Induction Bottom,30 cm diameter,1190

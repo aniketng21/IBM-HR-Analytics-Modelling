@@ -1,0 +1,46 @@
+Product_ID,Name,Price,Category,RAM,ROM,Expandable Upto,Battery,Processor,Display,Display Type,Rear Camera,Front Camera,Ratings
+EM1,"Lava Z61 (2 GB RAM, 16 GB ROM)",5777,Smartphone,2,16,128,3100,MediaTek Unisoc Octa Core,13.84,HD+,8,5,4
+EM2,"Micromax Canvas (2 GB RAM, 16 GB ROM)",7345,Smartphone,2,16,64,4000,MediaTek MT6737 Cortex-A53 64-bit,14.48,HD,13,8,3.7
+EM3,"Karbonn Aura (2 GB RAM, 16 GB ROM)",6541,Smartphone,2,16,32,2000,MediaTek MT6737 Cortex-A53 64-bit,12.7,HD,8,5,3.7
+EM4,"Karbonn Frames (2 GB RAM, 16 GB ROM)",8999,Smartphone,2,16,64,2900,MediaTek MT6737 Cortex-A53 64-bit,13.21,HD,8,8,4
+EM5,"Micromax Canvas (2 GB RAM, 16 GB ROM)",8599,Smartphone,2,16,128,2500,MediaTek MT6737 Cortex-A53 64-bit,13.84,HD+,13,8,3.9
+EM6,"Karbonn Titanium (2 GB RAM, 16 GB ROM)",8226,Smartphone,2,16,64,4000,MediaTek MT6735 64-bit,13.97,HD,13,8,3.8
+EM7,"Karbonn Yuva (2 GB RAM, 16 GB ROM)",6334,Smartphone,2,16,128,2250,MediaTek MT6735 64-bit,12.7,HD,5,5,3.8
+EM8,"Lava Z70 (2 GB RAM, 16 GB ROM)",7335,Smartphone,2,16,64,2500,MediaTek Helio P22 Octa Core Processor,12.7,HD,8,5,3.7
+EM9,"Karbonn Titanium (2 GB RAM, 16 GB ROM)",7490,Smartphone,2,16,64,4000,MediaTek MT6735 64-bit,12.7,HD,13,8,3.9
+EM10,"Karbonn Titanium (2 GB RAM, 32 GB ROM)",6696,Smartphone,2,32,0,3000,MediaTek Unisoc Octa Core,15.49,HD,8,5,3.7
+EM11,"Celkon UFEEL (2 GB RAM, 16 GB ROM)",5999,Smartphone,2,16,32,2500,MediaTek Cortex A7,12.7,HD,8,5,3.7
+EM12,"Karbonn Aura (2 GB RAM, 16 GB ROM)",7899,Smartphone,2,16,32,2900,MediaTek MT6753 Octa Core 1.3GHz,13.97,HD,13,5,3.7
+EM13,"Micromax CANVAS (3 GB RAM, 32 GB ROM)",7799,Smartphone,3,32,0,4000,MediaTek MT6753 Octa Core 1.3GHz,14.48,HD,13,5,3.8
+EM14,"Lava Z66 (3 GB RAM, 32 GB ROM)",7777,Smartphone,3,32,128,3950,MediaTek Helio P21,15.44,HD+,13,13,4.1
+EM15,"Lava Z92 (3 GB RAM, 32 GB ROM)",12199,Smartphone,3,32,256,3260,MediaTek Helio P22,15.8,HD+,13,8,4.3
+EM16,"Micromax Canvas (3 GB RAM, 32 GB ROM)",7699,Smartphone,3,32,0,4000,MediaTek Helio P23,14.48,HD+,13,8,3.8
+EM17,"Lava Z91 (3 GB RAM, 32 GB ROM)",12000,Smartphone,3,32,128,3000,MediaTek K6739,14.48,HD+,13,8,3.9
+EM18,"Micromax Canvas (3 GB RAM, 16 GB ROM)",9199,Smartphone,3,16,64,3050,MediaTek MT6737 Quad Core 1.25GHz,12.7,HD,13,5,3.7
+EM19,"XOLO ERA (3 GB RAM, 16 GB ROM)",8499,Smartphone,3,16,64,3000,MediaTek MTK 6737 Quad Core 1.25 GHz,12.7,HD,13,13,3.9
+EM20,"Micromax Bharat (2 GB RAM, 16 GB ROM)",5499,Smartphone,2,16,0,3000,MediaTek SC9863A,12.7,HD,8,5,3.2
+EM21,"Micromax Canvas (3 GB RAM, 32 GB ROM)",7099,Smartphone,3,32,0,2900,Qualcomm Snapdragon 425 Quad Core,14.48,HD,13,16,4.1
+EM22,"Micromax Selfie (3 GB RAM, 32 GB ROM)",7790,Smartphone,3,32,128,3000,MediaTek MT6737 Quad Core 1.25GHz,13.21,HD,13,8,3.6
+EM23,"Micromax Selfie (3 GB RAM, 32 GB ROM)",7290,Smartphone,3,32,128,3000,MediaTek MT6737 Quad Core 1.25GHz,13.21,HD,13,8,3.6
+EM24,"Micromax Canvas (3 GB RAM, 16 GB ROM)",6399,Smartphone,3,16,64,3050,MediaTek MT6737 Quad Core 1.25GHz,12.7,HD,13,5,3.7
+EM25,"Micromax Evok (3 GB RAM, 32 GB ROM)",17000,Smartphone,3,32,32,4000,MediaTek MT6753 Octa Core 1.3GHz,13.97,HD,13,5,3.6
+EM26,"Lava X81 (3 GB RAM, 16 GB ROM)",8799,Smartphone,3,16,64,2700,MediaTek MT6735 64-bit,12.7,HD,13,5,3.9
+EM27,"Micromax Canvas (3 GB RAM, 16 GB ROM)",5630,Smartphone,3,16,0,2000,Qualcomm Snapdragon Quad Core 1GHz,12.7,HD,8,5,3.6
+EM28,"Micromax Canvas (3 GB RAM, 16 GB ROM)",5299,Smartphone,3,16,32,2500,MediaTek Quad Core 1GHz,12.7,HD,8,5,3.6
+EM29,"Micromax iONE (3 GB RAM, 32 GB ROM)",6499,Smartphone,3,32,0,3950,MediaTek MT6753 Octa Core 1.3GHz,15.44,HD,13,5,4.1
+EM30,"Lava Z93 (3 GB RAM, 32 GB ROM)",8499,Smartphone,3,32,0,3500,MediaTek Helio P22,15.8,HD,13,8,4.2
+EM31,"XOLO Era (3 GB RAM, 32 GB ROM)",7599,Smartphone,3,32,128,3000,MediaTek Helio A22,14.48,HD+,13,13,4.1
+EM32,"Micromax Selfie (3 GB RAM, 32 GB ROM)",5490,Smartphone,3,32,128,3000,MediaTek MT6737 Quad Core 1.25GHz,13.21,HD,13,8,3.8
+EM33,"Micromax Canvas (3 GB RAM, 32 GB ROM)",6900,Smartphone,3,32,0,3000,MediaTek Helio P22 (MT6762V),12.7,HD,13,8,3.9
+EM34,"Micromax Infinity (3 GB RAM, 32 GB ROM)",6699,Smartphone,3,32,128,4000,MediaTek Helio P22 (MT6762V),15.72,HD+,13,16,4.1
+EM35,"Micromax Canvas (4 GB RAM, 64 GB ROM)",8290,Smartphone,4,64,128,3000,Qualcomm Snapdragon 450 Octa Core,14.48,HD,16,20,3.9
+EM36,"Micromax Dual (4 GB RAM, 64 GB ROM)",5799,Smartphone,4,64,128,2730,Qualcomm Snapdragon 435 Octa Core,13.21,HD,13,13,3.7
+EM37,"Micromax Canvas (4 GB RAM, 16 GB ROM)",13999,Smartphone,4,16,64,3000,MediaTek MT6795M Octa Core 2GHz,13.97,HD,13,5,3.7
+EM38,"XOLO ZX (4 GB RAM, 64 GB ROM)",9199,Smartphone,4,64,256,3260,MediaTek Helio P22,15.8,HD+,13,16,3.9
+EM39,"Micromax Dual (4 GB RAM, 128 GB ROM)",24999,Smartphone,4,128,128,3200,Qualcomm Snapdragon 652 Octa Core 1.8GHz,13.97,HD,13,13,4.5
+EM40,"Micromax Evok (4 GB RAM, 32 GB ROM)",5299,Smartphone,4,32,64,3000,MediaTek MT6750T Octa Core 1.5 GHz,13.97,HD,13,5,3.8
+EM41,"Lava Z25 (4 GB RAM, 32 GB ROM)",8499,Smartphone,4,32,128,3020,MediaTek MT6750 Octa Core 1.5GHz,13.97,HD,13,8,4.1
+EM42,"Lava Z92 (2 GB RAM, 32 GB ROM)",9000,Smartphone,2,32,256,3260,MediaTek Helio P22 octa core processor,15.8,HD+,13,8,4.4
+EM43,"Karbonn Platinum (2 GB RAM, 16 GB ROM)",6850,Smartphone,2,16,0,2500,MediaTek MT6737 Cortex-A53 64-bit,13.84,HD,8,5,3.7
+EM44,"Micromax iOne (2 GB RAM, 16 GB ROM)",6600,Smartphone,2,16,64,2200,MediaTek SC9863A,13.84,HD,5,5,3.9
+EM45,"Lava Z61 (2 GB RAM, 16 GB ROM)",5999,Smartphone,2,16,64,3000,Qualcomm Snapdragon 1.5 GHz Quad Core Processor,13.84,HD+,8,5,4.2
