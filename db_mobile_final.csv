@@ -1,8 +1,8 @@
 Product_ID,Name,Price,Category,RAM,ROM,Expandable Upto,Battery,Processor,Display,Display Type,Rear Camera,Front Camera,Ratings
-EM1,"Lava Z61 (2 GB RAM, 16 GB ROM)",5777,Smartphone,2,16,128,3100,MediaTek Unisoc Octa Core,13.84,HD+,8,5,4
+EM1,"Lava Z61 (2 GB RAM, 16 GB ROM)",5777,Smartphone,2,16,128,3100,MediaTek Unisoc Octa Core,13.84,HD+,8,5,4.0
 EM2,"Micromax Canvas (2 GB RAM, 16 GB ROM)",7345,Smartphone,2,16,64,4000,MediaTek MT6737 Cortex-A53 64-bit,14.48,HD,13,8,3.7
 EM3,"Karbonn Aura (2 GB RAM, 16 GB ROM)",6541,Smartphone,2,16,32,2000,MediaTek MT6737 Cortex-A53 64-bit,12.7,HD,8,5,3.7
-EM4,"Karbonn Frames (2 GB RAM, 16 GB ROM)",8999,Smartphone,2,16,64,2900,MediaTek MT6737 Cortex-A53 64-bit,13.21,HD,8,8,4
+EM4,"Karbonn Frames (2 GB RAM, 16 GB ROM)",8999,Smartphone,2,16,64,2900,MediaTek MT6737 Cortex-A53 64-bit,13.21,HD,8,8,4.0
 EM5,"Micromax Canvas (2 GB RAM, 16 GB ROM)",8599,Smartphone,2,16,128,2500,MediaTek MT6737 Cortex-A53 64-bit,13.84,HD+,13,8,3.9
 EM6,"Karbonn Titanium (2 GB RAM, 16 GB ROM)",8226,Smartphone,2,16,64,4000,MediaTek MT6735 64-bit,13.97,HD,13,8,3.8
 EM7,"Karbonn Yuva (2 GB RAM, 16 GB ROM)",6334,Smartphone,2,16,128,2250,MediaTek MT6735 64-bit,12.7,HD,5,5,3.8
